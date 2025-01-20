@@ -29,7 +29,7 @@ The Calcdivi class extends JFrame and contains a GUI with components for user in
 
 ### Note:
 Replace `"images/screenshot.png"` with the actual path of the screenshot image if it's available, or remove the section if it's not included. Also, ensure to upload your project with the necessary images and files if sharing it on GitHub.
-
+ 
 
 
 
